@@ -91,6 +91,7 @@ header.showdown i {
 
 header.showdown .navbar a {
     color:var(--text-dark)
+    text-align:center;
 }
 
 header.showdown .logo {
