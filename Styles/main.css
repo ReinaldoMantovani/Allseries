@@ -474,6 +474,11 @@ header.showdown .search  {
    
 }
 
+.box .stars-details {
+   position:absolute;
+   z-index:99999;
+}
+
 .box h3 {
     color: var(--text-light);
     margin-top: 17px;
