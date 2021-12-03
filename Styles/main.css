@@ -82,7 +82,7 @@ header {
 header.showdown {
     background-color:rgb(246, 243, 243);
     box-shadow: 0 0 4px rgb(14 55 54 / 15%);
-    
+    z-index:10000000;
 }
 
 header.showdown i {
