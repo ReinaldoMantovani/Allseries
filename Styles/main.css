@@ -884,7 +884,7 @@ header.showdown .search  {
     }
     .home-text {
         display:grid;
-        margin-left:25%;
+        margin-left:15%;
     }
      .home-text h1 {
         font-size:1.5rem;
@@ -893,12 +893,13 @@ header.showdown .search  {
      .home-text p {
         font-size:1.5rem;
         color:white;
+        Width:500px;
     }
     
     .btn-details {
         display: grid;
         margin-top: 20px;
-        Margin-left:25%;
+        Margin-left:15%;
         
     }
 
