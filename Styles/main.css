@@ -83,7 +83,7 @@ header.showdown {
     background-color:rgb(246, 243, 243);
     box-shadow: 0 0 4px rgb(14 55 54 / 15%);
 <<<<<<< HEAD
-    z-index: 99999999;
+    z-index: 99999999999;
     
 =======
     z-index:10000000;
@@ -250,7 +250,7 @@ header.showdown .search  {
     text-align: left;
     letter-spacing: 1.3px;
     width: 500px;
-    font-weight: 200;
+    font-weight: 500;
     line-height: 30px;
   
     font-family: 'Poppins',sans-serif;
@@ -882,9 +882,25 @@ header.showdown .search  {
         text-align: center;
         justify-content: center;
     }
+    .home-text {
+        display:grid;
+        margin-left:auto;
+        margin-right:auto;
+    }
+     .home-text h1 {
+        font-size:1rem;
+        text-align:center;
+    }
+     .home-text p {
+        font-size:0.7rem;
+        color:white;
+    }
+    
     .btn-details {
         display: grid;
         margin-top: 20px;
+        Margin-left:auto;
+        Margin-right:auto;
     }
 
     .btn-details a {
