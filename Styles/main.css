@@ -884,14 +884,14 @@ header.showdown .search  {
     }
     .home-text {
         display:grid;
-        margin-left:15%;
+        margin-left:10%;
     }
      .home-text h1 {
-        font-size:1.5rem;
+        font-size:2rem;
         text-align:center;
     }
      .home-text p {
-        font-size:1.5rem;
+        font-size:1rem;
         color:white;
         Width:500px;
     }
@@ -899,7 +899,7 @@ header.showdown .search  {
     .btn-details {
         display: grid;
         margin-top: 20px;
-        Margin-left:15%;
+        Margin-left:10%;
         
     }
 
