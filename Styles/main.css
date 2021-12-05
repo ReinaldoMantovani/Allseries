@@ -82,8 +82,12 @@ header {
 header.showdown {
     background-color:rgb(246, 243, 243);
     box-shadow: 0 0 4px rgb(14 55 54 / 15%);
+<<<<<<< HEAD
     z-index: 99999999;
     
+=======
+    z-index:10000000;
+>>>>>>> 884788d675fc480050873d15a9b41e2a171f8650
 }
 
 header.showdown i {
@@ -92,6 +96,7 @@ header.showdown i {
 
 header.showdown .navbar a {
     color:var(--text-dark)
+    text-align:center;
 }
 
 header.showdown .logo {
@@ -497,6 +502,11 @@ header.showdown .search  {
 .box .details-movie{
    display: flex;
    
+}
+
+.box .stars-details {
+   position:absolute;
+   z-index:99999;
 }
 
 .box h3 {
