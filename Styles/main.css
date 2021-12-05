@@ -884,23 +884,22 @@ header.showdown .search  {
     }
     .home-text {
         display:grid;
-        margin-left:auto;
-        margin-right:auto;
+        margin-left:25%;
     }
      .home-text h1 {
-        font-size:1rem;
+        font-size:1.5rem;
         text-align:center;
     }
      .home-text p {
-        font-size:0.7rem;
+        font-size:1.5rem;
         color:white;
     }
     
     .btn-details {
         display: grid;
         margin-top: 20px;
-        Margin-left:auto;
-        Margin-right:auto;
+        Margin-left:25%;
+        
     }
 
     .btn-details a {
