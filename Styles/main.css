@@ -479,7 +479,7 @@ header.showdown .search  {
 
 .box .box-img img {
     width: 100%;
-    height:100%;
+    height:450px;
     object-fit: cover;
     border-radius: 4px;
     position: relative;
