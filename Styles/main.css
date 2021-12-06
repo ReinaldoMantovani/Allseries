@@ -82,7 +82,12 @@ header {
 header.showdown {
     background-color:rgb(246, 243, 243);
     box-shadow: 0 0 4px rgb(14 55 54 / 15%);
+<<<<<<< HEAD
     z-index: 99999999;
+=======
+<<<<<<< HEAD
+    z-index: 99999999999;
+>>>>>>> ff86b52942bd9df7c6a9223ab7a52a3793bca55b
     
 }
 
@@ -246,7 +251,7 @@ header.showdown .search  {
     text-align: left;
     letter-spacing: 1.3px;
     width: 500px;
-    font-weight: 200;
+    font-weight: 500;
     line-height: 30px;
   
     font-family: 'Poppins',sans-serif;
@@ -905,6 +910,7 @@ header.showdown .search  {
         text-align: center;
         justify-content: center;
     }
+<<<<<<< HEAD
 
     .movies .cards1 .card1 img {
         width: 100%;
@@ -912,9 +918,27 @@ header.showdown .search  {
         border-radius: 12px;
         object-fit: cover;
     }
+=======
+    .home-text {
+        display:grid;
+        margin-left:11%;
+    }
+     .home-text h1 {
+        font-size:2rem;
+        text-align:left;
+    }
+     .home-text p {
+        font-size:1rem;
+        color:white;
+        padding:10px;
+    }
+    
+>>>>>>> ff86b52942bd9df7c6a9223ab7a52a3793bca55b
     .btn-details {
         display: grid;
         margin-top: 20px;
+        Margin-left:11%;
+        
     }
 
     .btn-details a {
